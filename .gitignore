@@ -1,0 +1,6 @@
+# Ignore dataset files
+Lab Demos/OASIS/*
+Lab Demos/cifar10/*
+
+# Ignore operating system generated files
+.DS_Store
